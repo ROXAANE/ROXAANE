@@ -1,7 +1,7 @@
 ## Hey Folks...
 I am
 
-<p align="center">
+<p align="left">
  <img src="https://github.com/ROXAANE/ROXAANE/blob/master/logo/ROXAANE.png" > 
 </p>
 
